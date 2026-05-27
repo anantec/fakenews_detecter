@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+
+# Model files (optional but recommended)
+*.pkl
+
+# OS
+.DS_Store
