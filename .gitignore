@@ -2,7 +2,7 @@
 __pycache__/
 *.pyc
 .env
-
+j
 # Node
 node_modules/
 
